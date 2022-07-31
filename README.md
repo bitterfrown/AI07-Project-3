@@ -16,6 +16,16 @@ Transfer learning is adapted in building the deep learning model of this project
 
 
 ## 4.0 Results
+### Training Accuracy vs Validation Accuracy
+![Figure 2022-07-27 190946](https://user-images.githubusercontent.com/108327348/182034205-891db4cb-9100-44ff-8845-279b5519ef61.png)
 
+### Training Loss vs Validation Loss
+![Figure 2022-07-27 190857](https://user-images.githubusercontent.com/108327348/182034256-4bc6f03f-5340-4a3b-bab5-c93b69fd68c8.png)
+
+### Test Data Evaluation
+![Screenshot 2022-07-31 222912](https://user-images.githubusercontent.com/108327348/182034306-9360af03-64f6-4bf9-bb18-f449e52c60d6.jpg)
+
+Photos below show predictions made by model compared to the actual images
+![Figure 2022-07-27 194204](https://user-images.githubusercontent.com/108327348/182034368-7264ee5e-7620-4af1-9cf9-d39a9befdfa9.png)
 
 
